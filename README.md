@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou Gustavo H. Pelissari!</h1>
+<h1 align="center">👋 Olá, eu sou Gustavo de Honorato Pelissari!</h1>
 
 ###
 
