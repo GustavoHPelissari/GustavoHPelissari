@@ -6,22 +6,21 @@
 
 <h1 align="center">
   <img src="https://i.gifer.com/ZNec.gif" width="40"/> 
-  Gustavo de Honorato Pelissari
+  Olá, Sou Gustavo de Honorato Pelissari
   <img src="https://i.gifer.com/ZNec.gif" width="40"/>
 </h1>
 
 ###
 
-<h2 align="left">Sobre mim:</h2>
+<h2 align="left">SOBRE MIM:</h2>
 
 ###
-
 
 <p align="left">🖥️ Aprendiz de Desenvolvimento de Sistemas | CentroWeg<br><br>📚 Atualmente aprendendo sobre implantação de sistemas com Spring Boot<br><br>🎯 Metas: Tornar-se um profissional altamente capacitado em TI<br><br>🌱 Procurando projetos que me permitam crescer, trocar ideias e desenvolver minhas habilidades na prática.</p>
 
 ###
 
-<h3 align="left">📱Contato:</h3>
+<h2 align="left">📱CONTATO:</h2>
 
 ###
 
@@ -33,7 +32,7 @@
 
 ###
 
-<h2 align="left">💻 Utilitários:</h2>
+<h2 align="left">💻 UTILITÁRIOS:</h2>
 
 ###
 
