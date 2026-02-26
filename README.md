@@ -4,7 +4,11 @@
 
 ###
 
-<h1 align="center">👋 Olá, eu sou Gustavo de Honorato Pelissari!</h1>
+<h1 align="center">
+  <img src="https://i.gifer.com/ZNec.gif" width="40"/> 
+  Gustavo de Honorato Pelissari
+  <img src="https://i.gifer.com/ZNec.gif" width="40"/>
+</h1>
 
 ###
 
