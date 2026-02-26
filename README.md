@@ -75,3 +75,13 @@
 </div>
 
 ###
+
+<details>
+  <summary><strong>🔹 AgilyBoard</strong> — Sistema de gerenciamento de tarefas estilo todoList </summary>
+  <ul>
+    <li>🛠 Cadastro e gerenciamento </li>
+    <li>🌐 Sistema usando api para conexão entre banckend e frontend</li>
+    <li>🔐 Banco de dados com segurança</li>
+    <li>📁 Repositório: <a href="https://github.com/GustavoHPelissari/AgilyBoard">github.com/GustavoHPelissari/AgilyBoard</a></li>
+  </ul>
+</details>
