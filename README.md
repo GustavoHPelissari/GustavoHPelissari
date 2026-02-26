@@ -12,7 +12,9 @@
 
 ###
 
-<h2 align="left">SOBRE MIM:</h2>
+<h2 align="left">
+  SOBRE MIM:
+</h2>
 
 ###
 
