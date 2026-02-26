@@ -21,6 +21,7 @@
 <p align="left">🖥️ Aprendiz de Desenvolvimento de Sistemas | CentroWeg<br><br>📚 Atualmente aprendendo sobre implantação de sistemas com Spring Boot<br><br>🎯 Metas: Tornar-se um profissional altamente capacitado em TI<br><br>🌱 Procurando projetos que me permitam crescer, trocar ideias e desenvolver minhas habilidades na prática.</p>
 
 ###
+---
 
 <h2 align="left">📱CONTATO:</h2>
 
@@ -33,6 +34,7 @@
 </div>
 
 ###
+---
 
 <h2 align="left">💻 UTILITÁRIOS:</h2>
 
@@ -75,6 +77,8 @@
 </div>
 
 ###
+---
+<h2 align="left">📁 PROJETOS EM DESTAQUE </h2>
 
 <details>
   <summary><strong>🔹 AgilyBoard</strong> — Sistema de gerenciamento de tarefas estilo todoList </summary>
