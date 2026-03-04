@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🖥️ Aprendiz de Desenvolvimento de Sistemas | CentroWeg<br><br>📚 Atualmente aprendendo sobre implantação de sistemas com Spring Boot<br><br>🎯 Metas: Tornar-se um profissional altamente capacitado em TI<br><br>🌱 Procurando projetos que me permitam crescer, trocar ideias e desenvolver minhas habilidades na prática.</p>
+<p align="left">🖥️ Desenvolvedor Back-End | CentroWeg<br><br>📚 Atualmente aprendendo sobre implantação de sistemas com Spring Boot<br><br>🎯 Metas: Tornar-se um profissional altamente capacitado em TI<br><br>🌱 Procurando projetos que me permitam crescer, trocar ideias e desenvolver minhas habilidades na prática.</p>
 
 ###
 ---
